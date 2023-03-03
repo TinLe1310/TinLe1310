@@ -20,8 +20,9 @@
 - A passionate newbie Programmer, Front-End Web Developer, Database Manager 
 - Finding new challenges and learning new stuffs everyday
 - Currently learning React by Self
-- Personal website [link]()❗
-- I’m currently open for an Co-op/Intern or a new job opportunity, this is [my Resume]()❗
+- My several React websites on CodeSandbox: [|| 🐟 Fish Watch 🐡 |](https://codesandbox.io/s/assignment-5-tin-le-5dtffq)
+					    [|⭐ Star Ship 👽||](https://codesandbox.io/s/challenge-5-tin-le-88x2rb)
+- I’m currently open for an Co-op/Intern or a new job opportunity.
 
 <br>
 <br>
